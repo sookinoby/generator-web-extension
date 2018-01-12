@@ -45,6 +45,6 @@
     "standard": "latest"
   },
   "peerDependencies": {
-    "yo": "1.x.x"
+    "yo": "2.x.x"
   }
 }
